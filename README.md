@@ -1,1 +1,0 @@
-# practica1cctl-ecaa
